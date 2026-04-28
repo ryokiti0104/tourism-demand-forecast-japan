@@ -45,8 +45,8 @@ The dataset includes the following key indicators:
 - **Total Guest Nights (`total_guest_nights`)**  
   Total number of guest nights (both domestic and international)
 
-- **Total Guest Nights (`total_guest_nights`)**
-  Total number of guest nights (both domestic and international) 
+- **Foreign Guest Nights (`foreign_guest_nights`)**  
+  Number of guest nights by international visitors (inbound tourism demand)
 
 ## Methodology
 
