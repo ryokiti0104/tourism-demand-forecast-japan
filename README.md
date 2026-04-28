@@ -1,5 +1,5 @@
 # Tourism Demand Forecast for Japan
-Forecasting inbound tourism demand using macroeconomic indicators and search trends
+### Forecasting inbound tourism demand using macroeconomic indicators and search trends
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
