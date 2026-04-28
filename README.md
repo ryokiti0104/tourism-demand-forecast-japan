@@ -21,7 +21,7 @@ Used for analyzing long-term trends and building a tourism demand forecasting mo
 ### 2. FRED of St.Louis
 USD/JPY Exchange Rate (DEXJPUS).
 - Time span: 1971-01-04 to 2026-04-24
-- Frequency: daily
+- Frequency: Daily
 - Source: https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXJPUS
 
 ### 3. BIS (Bank for International Settlements) Data Portal
