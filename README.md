@@ -33,15 +33,16 @@ Real Effective Exchange Rate (REER) for Japan.
 
 
 ### 5. Japan Tourism Agency (観光庁)
-This dataset is based on the official `Lodging Travel Statistics` published by the Japan Tourism Agency (JTA).
+This dataset is based on the official `Lodging Travel Statistics` published by the Japan Tourism Agency (JTA).  
 It covers approximately 18 years of monthly data from January 2007 to December 2025, providing a long-term view of accommodation demand in Japan.
 
 The dataset includes the following key indicators:
 
-- Total Guest Nights (total_guest_nights)
-Total number of guest nights (both domestic and international)
-- Foreign Guest Nights (foreign_guest_nights)
-Number of guest nights by international visitors (inbound tourism demand)
+- **Total Guest Nights (`total_guest_nights`)**  
+  Total number of guest nights (both domestic and international)
+
+- **Foreign Guest Nights (`foreign_guest_nights`)**  
+  Number of guest nights by international visitors (inbound tourism demand)
 
 - Time span: 2007-01 to 2025-12
 - Frequency: Monthly
