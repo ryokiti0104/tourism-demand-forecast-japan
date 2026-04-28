@@ -10,22 +10,18 @@ This project analyzes and forecasts monthly inbound tourism demand to Japan usin
 
 
 ## Data Sources
+#### JNTO (Foreign Visitors to Japan, Tourism Consumption)
+- japan_inbound_visitors_monthly.csv: https://statistics.jnto.go.jp/graph/#graph--inbound--travelers--transition
 
-The analysis uses publicly available datasets:
 
-- **Visitor arrivals**  
   Japan National Tourism Organization (JNTO)
 
-- **Exchange rate**
   - USD/JPY (FRED)
   - Real Effective Exchange Rate (BIS)
 
 - **Search trends**  
   Google Trends (travel-related keywords)
 
-The datasets were converted to monthly frequency and aligned for time-series analysis.
-
----
 
 ## Methodology
 
