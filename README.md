@@ -20,10 +20,10 @@ This project analyzes and forecasts monthly inbound tourism demand to Japan usin
 Monthly data on the number of foreign visitors to Japan (JNTO), covering the period from 1990 to 2025.
 Used for analyzing long-term trends and building a tourism demand forecasting model.
 
-### FRED of St.Louis
+### 2. FRED of St.Louis
 - USD/JPY Exchange Rate (DEXJPUS): https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXJPUS
 
-### BIS (Bank for International Settlements) Data Portal
+### 3. BIS (Bank for International Settlements) Data Portal
 - Dataset: BIS_REER_Japan.csv
 - Time span: 1964-01 to 2026-03
 - Frequency: Monthly
