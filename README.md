@@ -24,11 +24,7 @@ Used for analyzing long-term trends and building a tourism demand forecasting mo
 - Dataset: BIS_REER_Japan.csv
 - Source: https://data.bis.org/topics/EER/BIS,WS_EER,1.0/M.R.N.JP  
 
-Real Effective Exchange Rate (REER) for Japan.  
-
-Time span: 1964-01 to 2026-03  
-
-Frequency: Monthly
+Real Effective Exchange Rate (REER) for Japan. Time span: 1964-01 to 2026-03. Frequency: Monthly
 
 ## Methodology
 
