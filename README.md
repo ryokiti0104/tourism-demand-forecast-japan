@@ -14,6 +14,9 @@ This project analyzes and forecasts monthly inbound tourism demand to Japan usin
 ##### (Access to the JNTO website may be restricted if you open it directly from GitHub)
 - japan_inbound_visitors_monthly.csv: https://statistics.jnto.go.jp/graph/#graph--inbound--travelers--transition
 
+Monthly data on the number of foreign visitors to Japan (JNTO), covering the period from 1990 to 2025.
+Used for analyzing long-term trends and building a tourism demand forecasting model.
+
   
 
 - Real Effective Exchange Rate (BIS)
