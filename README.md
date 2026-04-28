@@ -8,28 +8,28 @@
 ## Overview
 This project analyzes and forecasts monthly inbound tourism demand to Japan using a time-series model.
 
-
 ## Data Sources
 ### 1. JNTO (Foreign Visitors to Japan, Tourism Consumption)
 ##### (Access to the JNTO website may be restricted if you open it directly from GitHub)
+Monthly data on the number of foreign visitors to Japan (JNTO), covering the period from 1990 to 2025.
+Used for analyzing long-term trends and building a tourism demand forecasting model.
 - Dataset: japan_inbound_visitors_monthly.csv
 - Time span: 1990 to 2025
 - Frequency: Monthly
 - Source: https://statistics.jnto.go.jp/graph/#graph--inbound--travelers--transition
 
-Monthly data on the number of foreign visitors to Japan (JNTO), covering the period from 1990 to 2025.
-Used for analyzing long-term trends and building a tourism demand forecasting model.
-
 ### 2. FRED of St.Louis
-- USD/JPY Exchange Rate (DEXJPUS): https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXJPUS
+USD/JPY Exchange Rate (DEXJPUS).
+- Time span: 1971-01-04 to 2026-04-24
+- Frequency: daily
+- Source: https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXJPUS
 
 ### 3. BIS (Bank for International Settlements) Data Portal
+Real Effective Exchange Rate (REER) for Japan.
 - Dataset: BIS_REER_Japan.csv
 - Time span: 1964-01 to 2026-03
 - Frequency: Monthly
 - Source: https://data.bis.org/topics/EER/BIS,WS_EER,1.0/M.R.N.JP  
-
-Real Effective Exchange Rate (REER) for Japan.
 
 ## Methodology
 
