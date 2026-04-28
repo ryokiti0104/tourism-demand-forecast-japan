@@ -20,7 +20,9 @@ Used for analyzing long-term trends and building a tourism demand forecasting mo
 ### FRED of St.Louis
 - USD/JPY Exchange Rate (DEXJPUS): https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXJPUS
 
-  
+### BIS_REER_Japan
+
+https://data.bis.org/topics/EER/BIS,WS_EER,1.0/M.R.N.JP
 
 
 
