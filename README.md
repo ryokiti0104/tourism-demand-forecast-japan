@@ -43,7 +43,6 @@ The dataset includes the following key indicators:
 
 - **Foreign Guest Nights (`foreign_guest_nights`)**  
   Number of guest nights by international visitors (inbound tourism demand)
-
 - Time span: 2007-01 to 2025-12
 - Frequency: Monthly
 - Source: https://www.mlit.go.jp/kankocho/tokei_hakusyo/shukuhakutokei.html
