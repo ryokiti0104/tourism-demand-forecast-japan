@@ -10,7 +10,7 @@ This project analyzes and forecasts monthly inbound tourism demand to Japan usin
 
 
 ## Data Sources
-### JNTO (Foreign Visitors to Japan, Tourism Consumption)
+### 1. JNTO (Foreign Visitors to Japan, Tourism Consumption)
 ##### (Access to the JNTO website may be restricted if you open it directly from GitHub)
 - Dataset: japan_inbound_visitors_monthly.csv
 - Time span: 1990 to 2025
