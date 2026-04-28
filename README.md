@@ -11,7 +11,7 @@ This project analyzes and forecasts monthly inbound tourism demand to Japan usin
 
 ## Data Sources
 #### JNTO (Foreign Visitors to Japan, Tourism Consumption)
-- japan_inbound_visitors_monthly.csv:[https://statistics.jnto.go.jp/graph/#graph--inbound--travelers--transition](https://statistics.jnto.go.jp/graph/#graph--inbound--travelers--transition)
+- japan_inbound_visitors_monthly.csv: https://statistics.jnto.go.jp/graph/#graph--inbound--travelers--transition
 
   Japan National Tourism Organization (JNTO)
 
