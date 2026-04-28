@@ -17,14 +17,13 @@ This project analyzes and forecasts monthly inbound tourism demand to Japan usin
 Monthly data on the number of foreign visitors to Japan (JNTO), covering the period from 1990 to 2025.
 Used for analyzing long-term trends and building a tourism demand forecasting model.
 
-#### FRED (Federal Reserve Economic Data) – St. Louis Fed  
+#### FRED of St.Louis
 - USD/JPY Exchange Rate (DEXJPUS)  
 - https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXJPUS
 
   
 
-- Real Effective Exchange Rate (BIS)
-- Google Trends (travel-related keywords)
+
 
 
 ## Methodology
