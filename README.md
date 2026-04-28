@@ -18,8 +18,7 @@ Monthly data on the number of foreign visitors to Japan (JNTO), covering the per
 Used for analyzing long-term trends and building a tourism demand forecasting model.
 
 #### FRED of St.Louis
-- USD/JPY Exchange Rate (DEXJPUS)  
-- https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXJPUS
+- USD/JPY Exchange Rate (DEXJPUS): https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXJPUS
 
   
 
