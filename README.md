@@ -30,12 +30,18 @@ Real Effective Exchange Rate (REER) for Japan.
 - Frequency: Monthly
 - Source: https://data.bis.org/topics/EER/BIS,WS_EER,1.0/M.R.N.JP
 
-
+### 4. Google Trends
+This dataset contains monthly Google Trends search interest indices from January 2004 to April 2026 for travel-related keywords, including “Japan Travel”, “France Travel”, “Spain Travel”, “America Travel”, and “World Travel”. These indices (scaled from 0 to 100) reflect relative search popularity over time and serve as a proxy for global tourism interest and travel demand.
+- Dataset: google_trends.csv
+- Time span: 2004-01 to 2026-04
+- Frequency: Monthly
+- Source: https://trends.google.co.jp/trends/
 
 ### 5. Japan Tourism Agency (観光庁)
 This dataset is based on the official `Lodging Travel Statistics` published by the Japan Tourism Agency (JTA).  
 It covers approximately 18 years of monthly data from January 2007 to December 2025, providing a long-term view of accommodation demand in Japan.
 
+- Dataset: Excel Data
 - Time span: 2007-01 to 2025-12
 - Frequency: Monthly
 - Source: https://www.mlit.go.jp/kankocho/tokei_hakusyo/shukuhakutokei.html
