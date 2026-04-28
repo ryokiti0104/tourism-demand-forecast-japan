@@ -41,8 +41,9 @@ The dataset includes the following key indicators:
 - **Total Guest Nights (`total_guest_nights`)**  
   Total number of guest nights (both domestic and international)
 
-- **Total Guest Nights (`total_guest_nights`)**: Total number of guest nights (both domestic and international) 
-
+- **Total Guest Nights (`total_guest_nights`)**
+  Total number of guest nights (both domestic and international) 
+---
 - Time span: 2007-01 to 2025-12
 - Frequency: Monthly
 - Source: https://www.mlit.go.jp/kankocho/tokei_hakusyo/shukuhakutokei.html
