@@ -21,12 +21,14 @@ Used for analyzing long-term trends and building a tourism demand forecasting mo
 - USD/JPY Exchange Rate (DEXJPUS): https://fred.stlouisfed.org/graph/fredgraph.csv?id=DEXJPUS
 
 ### BIS (Bank for International Settlements) Data Portal
-- BIS_REER_Japan.csv: https://data.bis.org/topics/EER/BIS,WS_EER,1.0/M.R.N.JP
+- Dataset: BIS_REER_Japan.csv
+- Source: https://data.bis.org/topics/EER/BIS,WS_EER,1.0/M.R.N.JP  
 
-Real effective exchange rate, Japan
+Real Effective Exchange Rate (REER) for Japan.  
 
+Time span: 1964-01 to 2026-03  
 
-
+Frequency: Monthly
 
 ## Methodology
 
