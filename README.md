@@ -56,39 +56,28 @@ The dataset includes the following key indicators:
 
 
 ## Visualization
-### Visitor Arrivals
+### Foreign Visitors Arrivals
 
-![visitor arrivals](outputs/monthly_inbound_visitors.png)
+(images/monthly_inbound_visitors.png)
 
-Inbound tourism to Japan shows strong growth before COVID-19 and a sharp decline during the pandemic.
 
----
 
 ### Seasonal Pattern of Visitor Arrivals
 
-![seasonality](outputs/seasonality_of_tourism_demand.png)
+![seasonality](images/seasonality_of_tourism_demand(1990–2025).png)
 
-Inbound tourism demand shows clear seasonal patterns, indicating that monthly arrivals are not evenly distributed throughout the year.
 
----
+
 
 ### Exchange Rate Indicators
 
 ![exchange rate](outputs/exchange_rate.png)
 
-Exchange rate movements can affect travel affordability and may influence inbound demand.
 
----
 
 ## Conclusion
 
 ![forecast](outputs/tourism_demand_forecast2.png)
 
-The SARIMAX model captures the seasonal pattern of inbound tourism and produces reasonable forecasts when macro indicators are included.
 
-This suggests that combining economic indicators and search trends may help improve tourism demand forecasting.
 
----
-
-Author
-Ryo Kawada
