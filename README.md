@@ -59,10 +59,10 @@ The dataset includes the following key indicators:
 ### Foreign Visitors Arrivals
 ![](images/monthly_inbound_visitors.png)
 This dataset is based on the official `Lodging Travel Statistics` published by the Japan.  
-It covers approximately 18 years of monthly data from January 2007 to December 2025, providing a long-term view of accommodation demand in Japan.
+After a sharp decline in 2020 due to the COVID-19 pandemic, growth has recovered rapidly since 2023 and is currently approaching record highs.
 
 Growth was gradual from the 1990s through the early 2010s, but has accelerated since 2013.
-After a sharp decline in 2020 due to the COVID-19 pandemic, growth has recovered rapidly since 2023 and is currently approaching record highs.
+
 
 ### Seasonal Pattern of Foreign Visitor Arrivals
 ![](images/seasonality_of_tourism_demand(1990–2025).png)
