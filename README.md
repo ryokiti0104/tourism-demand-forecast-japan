@@ -73,7 +73,7 @@ Comparing Seasonal Patterns in Inbound Visitor Numbers: “1990–2025 Average�
 
 This pattern is consistent across both periods
 - In the 2023–2025 period, “October and December” have become significantly stronger
-- The level of international visitor arrivals to Japan in the 2023–2025 period has increased by approximately 2.5 to 3 times
+- The level of foreign visitor arrivals to Japan in the 2023–2025 period has increased by approximately 2.5 to 3 times
 
 ### Visitor Arrivals vs USD/JPY (2012-2025, Excluding COVID period)
 ![](images/exchange_rate(2012-2025).png)
