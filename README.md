@@ -54,24 +54,6 @@ The dataset includes the following key indicators:
 - **Foreign Guest Nights (`foreign_guest_nights`)**  
   Number of guest nights by international visitors (inbound tourism demand)
 
-## Methodology
-
-The forecasting model uses **SARIMAX (Seasonal ARIMA with exogenous variables)**.
-
-SARIMAX was chosen because:
-
-- Tourism demand has **strong seasonality**
-- Exchange rates and search trends can be included as **exogenous variables**
-- It is widely used in **economic time-series forecasting**
-
-Model inputs include:
-
-- Lagged visitor arrivals
-- Exchange rate indicators
-- Google search trends
-
----
-
 
 ## Visualization
 ### Visitor Arrivals
