@@ -87,9 +87,23 @@ This pattern is consistent across both periods
 
 ### Japan Tourism Demand Forecast
 ![](images/tourism_demand_forecast2.png)
+![](images/tourism_demand_forecast3.png)
+We used a SARIMAX model (incorporating exchange rate and search trends from 2007 to 2025 as exogenous variables) to forecast the number of international visitors to Japan in January.  
+While the model generally captures long-term trends and the rapid post-COVID recovery, the forecast for January 2026—approximately 3.85 million visitors—is slightly higher than the actual figure of approximately 3.59 million.  
+The model appears to be reflecting the recent recovery momentum somewhat more strongly.
 
 ## Conclusion
-![](images/tourism_demand_forecast3.png)
+This project developed a time-series model to forecast inbound tourism demand to Japan using macroeconomic indicators and search trends.
+
+The results suggest that the model is able to capture the overall trend of inbound tourism, including the long-term growth, the sharp decline during the COVID-19 period, and the rapid recovery thereafter.
+The inclusion of exchange rates, search interest (Google Trends), and accommodation-related indicators (guest nights) helps reflect both economic conditions and demand-side signals.
+
+However, the comparison for January 2026 indicates that the model slightly overestimates actual visitor arrivals.
+This implies that while the model successfully reflects the strong recovery trend, it may place relatively higher weight on recent momentum, leading to an upward bias in short-term forecasts.
+
+Overall, the model provides a reasonable approximation of tourism demand dynamics and can be useful for understanding directional trends.
+At the same time, further refinement—such as improving lag structures, incorporating additional constraints, or adjusting for structural changes—may enhance short-term prediction accuracy.
+
 
 
 
