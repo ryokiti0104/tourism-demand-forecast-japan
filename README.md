@@ -58,7 +58,7 @@ The dataset includes the following key indicators:
 ## Visualization
 ### Foreign Visitors Arrivals
 
-(images/monthly_inbound_visitors.png)
+images/monthly_inbound_visitors.png
 
 
 
