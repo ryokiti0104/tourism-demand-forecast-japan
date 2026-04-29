@@ -62,8 +62,8 @@ The dataset includes the following key indicators:
 
 
 ### Seasonal Pattern of Visitor Arrivals
-!(images/seasonality_of_tourism_demand(1990–2025).png)
-!(images/seasonality_of_tourism_demand.png)
+![](images/seasonality_of_tourism_demand(1990–2025).png)
+![](images/seasonality_of_tourism_demand.png)
 
 
 
