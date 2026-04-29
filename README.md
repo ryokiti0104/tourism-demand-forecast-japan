@@ -57,15 +57,13 @@ The dataset includes the following key indicators:
 
 ## Visualization
 ### Foreign Visitors Arrivals
-
 images/monthly_inbound_visitors.png
 
 
 
 ### Seasonal Pattern of Visitor Arrivals
-
-![seasonality](images/seasonality_of_tourism_demand(1990–2025).png)
-
+images/seasonality_of_tourism_demand(1990–2025).png
+images/seasonality_of_tourism_demand.png
 
 
 
