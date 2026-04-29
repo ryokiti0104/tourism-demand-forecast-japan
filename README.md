@@ -77,11 +77,10 @@ This pattern is consistent across both periods
 
 ### Visitor Arrivals vs USD/JPY (2012-2025, Excluding COVID period)
 ![](images/exchange_rate(2012-2025).png)
-The Relationship Between Foreign Tourist Numbers and Exchange Rates (2012–2025, excluding the COVID-19 period [2021–2022])
-- Group with high numbers of foreign visitors to Japan in the 110–120 yen range
-
-Mainly 2017–2019, Although the yen was not particularly weak, the number of international visitors to Japan was close to record highs.
-→ This is likely due to the effects of the inbound tourism expansion period.(e.g., visa liberalization and the rise of low-cost carriers)
+The Relationship Between Foreign Tourist Numbers and Exchange Rates (2012–2025, excluding the COVID-19 period [2021–2022])  
+1. Group with high numbers of foreign visitors to Japan in the 110–120 yen range  
+   Mainly 2017–2019, Although the yen was not particularly weak, the number of international visitors to Japan was close to record highs.  
+   → This is likely due to the effects of the inbound tourism expansion period.(e.g., visa liberalization and the rise of low-cost carriers)
 
 ### Japan Tourism Demand Forecast
 ![](images/tourism_demand_forecast2.png)
