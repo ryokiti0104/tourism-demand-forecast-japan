@@ -63,6 +63,9 @@ After a sharp decline in 2020 due to the COVID-19 pandemic, growth has recovered
 
 ### Seasonal Pattern of Foreign Visitor Arrivals
 ![](images/seasonality_of_tourism_demand(1990–2025).png)
+Monthly Average Number of Foreign Visitors to Japan (in 10,000) from 1990 to 2025: Visualization of Seasonal Patterns
+
+July sees the highest numbers (approximately 1.01 million), October remains at a high level (approximately 990,000), and April is also relatively high (approximately 950,000). In contrast, February has the lowest numbers (approximately 820,000).
 ![](images/seasonality_of_tourism_demand.png)
 
 ### Visitor Arrivals vs USD/JPY (2012-2025, Excluding COVID period)
