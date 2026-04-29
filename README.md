@@ -79,7 +79,7 @@ This pattern is consistent across both periods
 ![](images/exchange_rate(2012-2025).png)
 #### The Relationship Between Foreign Tourist Numbers and Exchange Rates (2012–2025, excluding the COVID-19 period [2021–2022])  
 ##### 1. 110–120 yen range  
-         Mainly 2017–2019, Although the yen was not particularly weak, the number of international visitors to Japan was close to record highs.  
+         Mainly 2017–2019, Although the yen was not particularly weak, the number of foreign visitors to Japan was close to record highs.  
          → This is likely due to the effects of the inbound tourism expansion period.(e.g., visa liberalization and the rise of low-cost carriers)  
 ##### 2. 140–160 yen range
          While the weak yen is a factor for the 2023–2025 period, we are also seeing a post-COVID recovery and a rebound in demand.  
@@ -88,22 +88,15 @@ This pattern is consistent across both periods
 ### Japan Tourism Demand Forecast
 ![](images/tourism_demand_forecast2.png)
 ![](images/tourism_demand_forecast3.png)
-We used a SARIMAX model (incorporating exchange rate and search trends from 2007 to 2025 as exogenous variables) to forecast the number of international visitors to Japan in January.  
+We used a SARIMAX model (incorporating exchange rate and search trends from 2007 to 2025 as exogenous variables) to forecast the number of foreign visitors to Japan in January.  
 While the model generally captures long-term trends and the rapid post-COVID recovery, the forecast for January 2026—approximately 3.85 million visitors—is slightly higher than the actual figure of approximately 3.59 million.  
 The model appears to be reflecting the recent recovery momentum somewhat more strongly.
 
 ## Conclusion
-This project developed a time-series model to forecast inbound tourism demand to Japan using macroeconomic indicators and search trends.
+This project developed a time-series model (SARIMAX with exchange rates and search trends as exogenous variables) to analyze and forecast foreign visitor arrivals to Japan.
 
-The results suggest that the model is able to capture the overall trend of inbound tourism, including the long-term growth, the sharp decline during the COVID-19 period, and the rapid recovery thereafter.
-The inclusion of exchange rates, search interest (Google Trends), and accommodation-related indicators (guest nights) helps reflect both economic conditions and demand-side signals.
+The model captures long-term growth, the COVID-19 shock, and the subsequent recovery, suggesting that macroeconomic indicators and search trends can reflect both structural and demand-side dynamics.
 
-However, the comparison for January 2026 indicates that the model slightly overestimates actual visitor arrivals.
-This implies that while the model successfully reflects the strong recovery trend, it may place relatively higher weight on recent momentum, leading to an upward bias in short-term forecasts.
+However, the comparison for January 2026 shows a slight overestimation, indicating that the model may place relatively higher weight on recent recovery momentum.
 
-Overall, the model provides a reasonable approximation of tourism demand dynamics and can be useful for understanding directional trends.
-At the same time, further refinement—such as improving lag structures, incorporating additional constraints, or adjusting for structural changes—may enhance short-term prediction accuracy.
-
-
-
-
+Overall, the results provide a descriptive view of tourism demand dynamics, while further refinement may improve short-term prediction accuracy.
