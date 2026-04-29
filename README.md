@@ -59,23 +59,18 @@ The dataset includes the following key indicators:
 ### Foreign Visitors Arrivals
 ![](images/monthly_inbound_visitors.png)
 
-
-
-### Seasonal Pattern of Visitor Arrivals
+### Seasonal Pattern of Foreign Visitor Arrivals
 ![](images/seasonality_of_tourism_demand(1990–2025).png)
 ![](images/seasonality_of_tourism_demand.png)
 
+### Visitor Arrivals vs USD/JPY (2012-2025, Excluding COVID period)
+![](images/exchange_rate(2012-2025).png)
 
-
-### Exchange Rate Indicators
-
-![exchange rate](outputs/exchange_rate.png)
-
-
+### Japan Tourism Demand Forecast
+![](images/tourism_demand_forecast2.png)
 
 ## Conclusion
-
-![forecast](outputs/tourism_demand_forecast2.png)
+![](images/tourism_demand_forecast3.png)
 
 
 
